@@ -5,3 +5,5 @@ Face Detection and tracking using
 3. Optical Flow
 
 Implemented using opencv and python
+
+Special thanks to Professor Roy Shilkrot for providing the skeleton code.
